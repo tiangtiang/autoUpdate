@@ -1,0 +1,4 @@
+E:\vs_project\AutoUpdate\AutoUpdate\AutoUpdate\Fakes\IButton.fakes : warning : 无法为 IButton.ButtonStyle 生成存根: 类型是一个值类型。
+E:\vs_project\AutoUpdate\AutoUpdate\AutoUpdate\Fakes\IButton.fakes : warning : 无法为 IButton.Properties.Resources 生成存根: 类型对 exported or assembly(IButton.1.0.0.0.Fakes) 不可见。
+E:\vs_project\AutoUpdate\AutoUpdate\AutoUpdate\Fakes\IButton.fakes : warning : 无法为 IButton.ButtonStyle 生成填充码: 类型是一个枚举。
+E:\vs_project\AutoUpdate\AutoUpdate\AutoUpdate\Fakes\IButton.fakes : warning : 无法为 IButton.Properties.Resources 生成填充码: 类型对 exported or assembly(IButton.1.0.0.0.Fakes) 不可见。
